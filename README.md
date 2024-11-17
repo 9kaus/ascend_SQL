@@ -1,17 +1,17 @@
 # ascend_SQL
 
-Welcome! 🙏👋
-In this repo I will be journaling my journey of learning SQL.
-Each day, I will be sharing what I've learned.
-Some concepts, exercises, assignments, projects, and a lot of fun! 🎉📈🔥
-So let's get started.
-🚀🚀🚀
+### Welcome! 🙏👋<br>
+In this repo I will be journaling my journey of learning SQL.<br>
+Each day, I will be sharing what I've learned.<br>
+Some concepts, exercises, assignments, projects, and a lot of fun! 🎉📈🔥<br>
+So let's get started. 🚀🚀🚀
 
 
 > **Note**: I will primarily be using MySQL for this learning journey, but I may also occasionally use Oracle and PostgreSQL for comparison and to explore different SQL / RDBMS features.
 
-
+<br>
 ---
+<br>
 
 - Day 1   :  
 - Day 2   :  
