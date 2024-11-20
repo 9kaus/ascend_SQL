@@ -136,16 +136,12 @@ A **Database** is a collection of **large amounts of data** stored in an organiz
 * Used for database programming  
   e.g. HRA_CALC, TAX_CALC, ATTENDANCE_CALC, etc.
 
-<br>
-
 ![Connector Excel Notifier](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/1/images/connector_excel_notifier.png)
 ![Enterprise Backup](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/1/images/enterprise_backup.png)
 ![Backup 1](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/1/images/backup1.png)
 ![Backup 2](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/1/images/backup2.png)
 ![Backup 3](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/1/images/backup3.png)
 ![High Availability Encryption Manager](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/1/images/highavailability_encryption_manager.png)
-
-<br>
 
 *MySQL Query Analyzer*
 * for query tuning
