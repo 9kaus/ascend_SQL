@@ -22,7 +22,7 @@ Some concepts, exercises, assignments, and a lot of fun! 🎉📈🔥<br>
 
 ## Theory Zero to Hero 📖 0️⃣ ➡️ 🏆
 
-- **Day 1**:
+- **Day 1**: [link](https://github.com/9kaus/ascend_SQL/tree/main/daywise/1)
 
 - **Day 2**:
 
