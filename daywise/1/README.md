@@ -136,27 +136,14 @@ A **Database** is a collection of **large amounts of data** stored in an organiz
 * Used for database programming  
   e.g. HRA_CALC, TAX_CALC, ATTENDANCE_CALC, etc.
 
-*MySQL Connectors*
-* for database connectivity (JDBC, ODBC, Python, C, C++, etc.)  
-  
-*MySQL for Excel*
-* import, export, and edit MySQL data using MS Excel  
-  
-*MySQL Notifier*
-* Start-up and Shutdown the MySQL database  
-  
-*MySQL Enterprise Backup*
-* export and import of table data   
-* used to take backups and restore from the backups
-
-*MySQL Enterprise High Availability*
-* for replication (also known as data mirroring) concept of standby database  
-
-*MySQL Enterprise Encryption *
-* used to encrypt the table data  
-
-*MySQL Enterprise Monitor*
-* for performance monitoring, and performance tuning  
+<br>
+![Connector Excel Notifier](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/1/images/connector_excel_notifier.png)
+![Enterprise Backup](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/1/images/enterprise_backup.png)
+![Backup 1](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/1/images/backup1.png)
+![Backup 2](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/1/images/backup2.png)
+![Backup 3](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/1/images/backup3.png)
+![High Availability Encryption Manager](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/1/images/highavailability_encryption_manager.png)
+<br>
 
 *MySQL Query Analyzer*
 * for query tuning
