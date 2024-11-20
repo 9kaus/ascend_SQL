@@ -12,11 +12,11 @@ Some concepts, exercises, assignments, and a lot of fun! 🎉📈🔥<br>
 
 ## Contents 📑
 
-- [📖 Theory Zero to Hero 0️⃣ ➡️ 🏆](#theory-zero-to-hero-)
-- [💻 Solutions by Platforms 🌐](#solutions-by-platforms-)
-- [🧩 Puzzles 🧠](#puzzles-)
-- [💡 Contributing 🤝](#contributing-)
-- [🔑 License 📜](#license-)
+- [📖 Theory Zero to Hero 0️⃣ ➡️ 🏆](-#theory-zero-to-hero-)
+- [💻 Solutions by Platforms 🌐](#-solutions-by-platforms-)
+- [🧩 Puzzles 🧠](#-puzzles-)
+- [💡 Contributing 🤝](#-contributing-)
+- [🔑 License 📜](#-license-)
 ###
 ---
 
@@ -82,17 +82,13 @@ Here are some solutions to leading SQL practice websites :
 
 Here, I will be solving SQL puzzles and challenges to sharpen my skills:
 
-- **Puzzle 1**:  
-  (Link of SQL puzzle #1)
+- **Puzzle 1**:  [Link to SQL puzzle #1](#) 
 
-- **Puzzle 2**:  
-  (Link of SQL puzzle #2)
+- **Puzzle 2**:  [Link to SQL puzzle #2](#)
 
-- **Puzzle 3**:  
-  (Link of SQL puzzle #3)
+- **Puzzle 3**:  [Link to SQL puzzle #3](#)
 
-- **Puzzle 4**:  
-  (Link of SQL puzzle #4)
+- **Puzzle 4**:  [Link to SQL puzzle #4](#
 ###
 ---
 
