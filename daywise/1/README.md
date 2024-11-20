@@ -71,7 +71,8 @@ A **Database** is a collection of **large amounts of data** stored in an organiz
 - Most popular (because it has the best tools for software development)
 - Makes programming very easy
 - OODBMS + RDBMS
-- Product of Oracle Corporation (founded in 1977, by the people who wrote SQL source code for IBM). [ref image](https://github.com/9kaus/ascend_SQL/blob/main/daywise/1/images/9.sql_history.png)
+- Product of Oracle Corporation (founded in 1977, by the people who wrote SQL source code for IBM).
+- ![ref image](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/1/images/9.sql_history.png)
 - #1 largest overall software company in the world
 - #1 largest DB software company in the world
 - Works on 113 OS
@@ -109,7 +110,8 @@ A **Database** is a collection of **large amounts of data** stored in an organiz
 - MySQL was initially free, but now only MySQL Community Edition is free.
 - Enterprise and other commercial versions are paid but less cost than Oracle.
 - Most widely used open-source RDBMS
-- Part of the widely used LAMP open-source web application software stack (and other "AMP" stacks) [ref image](https://github.com/9kaus/ascend_SQL/blob/main/daywise/1/images/8.AMP_stack.png)
+- Part of the widely used LAMP open-source web application software stack (and other "AMP" stacks)
+- ![ref image](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/1/images/8.AMP_stack.png)
 - Free-software open-source projects that require an RDBMS often use MySQL
 - WordPress, Facebook, Twitter, Flickr, YouTube, Google (though not for searches, they have BigTable), WhatsApp, Instagram, etc.
 - Sun Microsystems acquired MySQL in 2008
