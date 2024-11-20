@@ -13,7 +13,7 @@ The word "Computer" is derived from the French word **"Computaire"**, which mean
 
 
 
-### Example:
+#### Example:
 
 | **Input**    | **Processing**                           | **Output**                       |
 |--------------|------------------------------------------|----------------------------------|
@@ -46,16 +46,16 @@ A **Database** is a collection of **large amounts of data** stored in an organiz
 | **Feature**                                      | **DBMS (e.g., MS Excel, FoxPro)**                                               | **RDBMS (e.g., Oracle, MySQL)**                                                    |
 |--------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | **1.1 Data Storage**                             | Uses files or flat files to store data                                          | Stores data in tables (relations), which consist of rows and columns |
-| **1.2 Naming Conventions (Nomenclature)**        | a. Field <br> b. Record <br> c. File                                            | a. Column, Attribute, Key <br> b. Row, Tuple, Entity <br> c. Table, Relation, Entity class   |
+| **1.2 Naming Conventions (Nomenclature)**<br>[ref image](https://github.com/9kaus/ascend_SQL/daywise/1/images/1.naming_convention_dbms.png)        | a. Field <br> b. Record <br> c. File                                            | a. Column, Attribute, Key <br> b. Row, Tuple, Entity <br> c. Table, Relation, Entity class   |
 | **2.1 Relationships between Data**               | No relationships between data                                                   | Supports relationships between data using Primary and Foreign Keys |
-| **2.2 Relationship Between 2 files/tables**      | Maintained programmatically                                                     | Can be specified at the time of table creation (e.g. Foreign key constraint)      |
+| **2.2 Relationship Between 2 files/tables**<br>[ref image](https://github.com/9kaus/ascend_SQL/daywise/1/images/2.reltn_dbms.png)      | Maintained programmatically                                                     | Can be specified at the time of table creation (e.g. Foreign key constraint)      |
 | **3. Programming Requirement**                   | More programming                                                                | Less programming                                                                  |
 | **4. Software Development Time**                 | More time required for software development                                     | Less time required for software development                                       |
 | **5. Network Traffic**                           | High network traffic                                                            | Low network traffic                                                               |
-| **6. Processing Location**                       | Processing on Client machine                                                    | Processing on Server machine (known as Client-Server architecture)                |
+| **6. Processing Location** <br>[ref image](https://github.com/9kaus/ascend_SQL/daywise/1/images/3.client_server_dbms_vs_rdbms.png)                      | Processing on Client machine                                                    | Processing on Server machine (known as Client-Server architecture)                |
 | **7. Client-Server Architecture**                | Not supported                                                                   | Supported by most RDBMS                                                           |
 | **8. Speed & Cost**                              | Slow and expensive                                                              | Faster (in terms of network speed) and cheaper (in terms of hardware cost, network cost, infrastructure cost) |
-| **9. Locking Mechanism**                         | File level locking                                                              | Row level locking (internally, every row is a file)                              |
+| **9. Locking Mechanism**                         | File level locking   <br>[ref image](https://github.com/9kaus/ascend_SQL/daywise/1/images/4.1.file level locking_dbms.png)                                                            | Row level locking (internally, every row is a file)  <br>[ref image](https://github.com/9kaus/ascend_SQL/daywise/1/images/4.2.row level lockiing_rdbms.png)                             |
 | **10. Multi-user Support**                       | Not suitable for multi-user                                                     | Suitable for multi-user                                                           |
 | **11. Distributed Databases**                    | Not supported                                                                   | Supported by most RDBMS (e.g., banking system)                                    |
 | **12. Security**                                 | Limited security :<br> a. Dependent on OS for security.(can be made password protected with help of OS)<br>b. Allows access to data through OS.(still file can be accessed)<br>c. Security is not an in-built feature.<br>(file can be deleted) | Advanced security features, including roles, privileges, and access control.<br> Multiple levels of security: <br> a. Logging in security (MySQL database username and password) <br> b. Command level security (permission to issue MySQL commands) <br> c. Object level security (access to tables and other objects of other users) |
@@ -76,37 +76,31 @@ A **Database** is a collection of **large amounts of data** stored in an organiz
 - #1 largest DB software company in the world
 - Works on 113 OS
 - 10/10 of top 10 companies in the world use Oracle
-<br>
 
 #### Sybase
 - Going down
 - Recently acquired by SAP
-<br>
 
 #### MS SQL Server
 - Good RDBMS from Microsoft
 - Only works with Windows OS
-<br>
 
 #### Open-source free RDBMS: (character based) (text based)
 - Ingres
 - Postgres
 - Unify
 - Non-Stop
-<br>
 
 #### DB server has to be a mainframe (supercomputer):
 - DB2 (good RDBMS from IBM)
 - CICS
 - TELON
 - IDMS
-<br>
 
 #### Single-user PC based RDBMS:
 - MS Access
 - Paradox
 - Vatcom SQL
-<br>
 
 #### MySQL
 - MySQL was launched by a Swedish company in 1995
