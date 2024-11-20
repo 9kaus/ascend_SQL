@@ -12,7 +12,7 @@ Some concepts, exercises, assignments, and a lot of fun! 🎉📈🔥<br>
 
 ## Contents 📑
 
-- [📖 Theory Zero to Hero 0️⃣ ➡️ 🏆](-#theory-zero-to-hero-)
+- [📖 Theory Zero to Hero 0️⃣ ➡️ 🏆](#theory-zero-to-hero--0️⃣-️-)
 - [💻 Solutions by Platforms 🌐](#-solutions-by-platforms-)
 - [🧩 Puzzles 🧠](#-puzzles-)
 - [💡 Contributing 🤝](#-contributing-)
