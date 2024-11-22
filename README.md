@@ -88,7 +88,7 @@ Here, I will be solving SQL puzzles and challenges to sharpen my skills:
 
 - **Puzzle 3**:  [Link to SQL puzzle #3](#)
 
-- **Puzzle 4**:  [Link to SQL puzzle #4](#
+- **Puzzle 4**:  [Link to SQL puzzle #4](#)
 ###
 ---
 
