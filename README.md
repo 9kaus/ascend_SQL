@@ -22,37 +22,22 @@ Some concepts, exercises, assignments, and a lot of fun! 🎉📈🔥<br>
 
 ## Theory Zero to Hero 📖 0️⃣ ➡️ 🏆
 
-- **Day 1**: [link](https://github.com/9kaus/ascend_SQL/tree/main/daywise/1)
-
-- **Day 2**:
-
-- **Day 3**:
-
-- **Day 4**:
-
-- **Day 5**:
-
-- **Day 6**:
-
-- **Day 7**:
-
-- **Day 8**:
-
-- **Day 9**:
-
-- **Day 10**:
-
-- **Day 11**:
-
-- **Day 12**:
-
-- **Day 13**:
-
-- **Day 14**:
-
-- **Day 15**:
-
-- **Day 16**:  
+- **Day 1**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/1)
+- **Day 2**: [Clich Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/2)
+- **Day 3**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/3)
+- **Day 4**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/4)
+- **Day 5**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/5)
+- **Day 6**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/6)
+- **Day 7**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/7)
+- **Day 8**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/8)
+- **Day 9**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/9)
+- **Day 10**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/10)
+- **Day 11**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/11)
+- **Day 12**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/12)
+- **Day 13**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/13)
+- **Day 14**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/14)
+- **Day 15**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/15)
+- **Day 16**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/16)
 ###
 ---
 
