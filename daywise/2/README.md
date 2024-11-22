@@ -11,8 +11,7 @@ In SQL, data types define the **type of data that can be stored** in a database 
 > **NOTE :** <br>
   I am going through Data Types in MySQL only.<br>
   <br>
-  I referred :<br>
-  [MySQL v8.4 Data Types](https://dev.mysql.com/doc/refman/8.4/en/data-types.html)<br>
+  I referred : [MySQL v8.4 Data Types](https://dev.mysql.com/doc/refman/8.4/en/data-types.html)   <br>
   <br>
   We can refer :<br>
   [Oracle OORDBMS v11g Data Types](https://docs.oracle.com/cd/B28359_01/server.111/b28318/datatype.htm#CNCPT012)<br>
