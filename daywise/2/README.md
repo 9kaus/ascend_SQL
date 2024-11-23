@@ -1,5 +1,22 @@
 ## **Contents**
 - [Data Types](#datatypes-in-mysql-)
+  - [String Data Types](#string-data-types)
+    - [CHAR vs VARCHAR](#char-vs-varchar)
+    - [BINARY vs VARBINARY](#binary-vs-varbinary)
+    - [BLOB](#blob)
+    - [TEXT](#text)
+    - [ENUM](#enum)
+    - [SET](#set)
+  - [Numeric Data Types](#numeric-data-types)
+    - [Integer Data Types](#integer-data-types)
+      - [TINYINT vs SMALLINT vs MEDIUMINT vs INT vs BIGINT](#tinyint-vs-smallint-vs-mediumint-vs-int-vs-bigint)
+    - [Fixed-Point Types](#fixed-point-types-exact-value-in-mysql-)
+    - [Floating-Point Types](#floating-point-types-approximate-value-in-mysql-)
+    - [BIT and BOOLEAN](#bit-and-booleanie-tinyint1-)
+  - [Date and Time Data Types](#date-and-time-data-types-in-mysql-%EF%B8%8F)
+    - [DATE](#date)
+    - [DATETIME](#datetime)
+    - [YEAR](#year)
 - [Operators]()
 
 
