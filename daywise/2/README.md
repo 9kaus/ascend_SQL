@@ -1,6 +1,6 @@
 ## **Contents**
 - [Data Types](#datatypes-in-mysql-)
-  - [String Data Types](#string-data-types-)
+  - [String Data Types](#string-data-types--)
     - [CHAR vs VARCHAR](#char-vs-varchar)
     - [BINARY vs VARBINARY](#binary-vs-varbinary)
     - [BLOB](#blob)
@@ -13,7 +13,7 @@
     - [Fixed-Point Types](#fixed-point-types-exact-value-in-mysql)
     - [Floating-Point Types](#floating-point-types-approximate-value-in-mysql-)
     - [BIT and BOOLEAN](#bit-and-booleanie-tinyint1-)
-  - [Date and Time Data Types](#date-and-time-data-types-in-mysql-%EF%B8%8F-)
+  - [Date and Time Data Types](#date-and-time-data-types-in-mysql-%EF%B8%8F)
     - [DATE](#date)
     - [DATETIME](#datetime)
     - [YEAR](#year)
