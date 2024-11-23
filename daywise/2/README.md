@@ -1,6 +1,6 @@
 ## **Contents**
 - [Data Types](#datatypes-in-mysql-)
-  - [String Data Types](#string-data-types)
+  - [String Data Types](#string-data-types-)
     - [CHAR vs VARCHAR](#char-vs-varchar)
     - [BINARY vs VARBINARY](#binary-vs-varbinary)
     - [BLOB](#blob)
@@ -8,17 +8,19 @@
     - [ENUM](#enum)
     - [SET](#set)
   - [Numeric Data Types](#numeric-data-types)
-    - [Integer Data Types](#integer-data-types)
+    - [Integer Data Types](#integer-data-types-)
       - [TINYINT vs SMALLINT vs MEDIUMINT vs INT vs BIGINT](#tinyint-vs-smallint-vs-mediumint-vs-int-vs-bigint)
-    - [Fixed-Point Types](#fixed-point-types-exact-value-in-mysql-)
+    - [Fixed-Point Types](#fixed-point-types-exact-value-in-mysql)
     - [Floating-Point Types](#floating-point-types-approximate-value-in-mysql-)
     - [BIT and BOOLEAN](#bit-and-booleanie-tinyint1-)
-  - [Date and Time Data Types](#date-and-time-data-types-in-mysql-%EF%B8%8F)
+  - [Date and Time Data Types](#date-and-time-data-types-in-mysql-%EF%B8%8F-)
     - [DATE](#date)
     - [DATETIME](#datetime)
     - [YEAR](#year)
 - [Operators]()
 
+###
+---
 
 # **Datatypes in 'MySQL'** 🔢
 
@@ -35,7 +37,7 @@ In SQL, data types define the **type of data that can be stored** in a database 
 ###
 ---
 
-## **String Data Types**  
+## **String Data Types**  🔤
 These are used to store text or alphanumeric data.
 ###
 
@@ -200,7 +202,7 @@ These are used to store numeric data.
 - BIT AND BOOLEAN
 ###
 
-### **Integer Data Types**
+### **Integer Data Types** 🔢
 
 In MySQL, integer data types are used to store whole numbers (both positive and negative) without any decimal points. These data types differ in the range of values they can store and the amount of storage space they occupy. You can also specify whether the number should be **signed** (allowing negative values) or **unsigned** (only positive values).
 
@@ -228,7 +230,7 @@ In MySQL, integer data types are used to store whole numbers (both positive and 
 - **BIGINT** is used when you need to store very large values that exceed the range of a standard **INT**.
 ###
 
-### **Fixed-Point Types (Exact Value)** in MySQL 🔢
+### **Fixed-Point Types (Exact Value)** in MySQL 
 
 In MySQL, **DECIMAL** and **NUMERIC** are used to store exact numeric values with a fixed number of digits. These data types are typically used when you need to store precise values, such as monetary amounts or other values that require exact precision without rounding errors.
 
@@ -337,7 +339,7 @@ Where M is the number of bits to store, and it can range from 1 to 64.
 ###
 ---
 
-## **Date and Time Data Types** in MySQL 🕰️
+## **Date and Time Data Types** in MySQL 🕰️📅
 
 MySQL provides various data types for storing date and time values. These types allow you to store **dates**, **times**, and **timestamps** with varying levels of precision. These data types are essential when working with events, logs, and timestamps in databases.
 
