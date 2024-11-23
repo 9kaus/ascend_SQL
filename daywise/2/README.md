@@ -17,7 +17,16 @@
     - [DATE](#date)
     - [DATETIME](#datetime)
     - [YEAR](#year)
-- [Operators]()
+- [Creating and Inserting in Table](#creating-and-inserting-in-table)
+- [Selecting from Table](#selecting-from-table)
+- [Operators](#operators)
+    - [Relational & Logical Operators](#relational--logical-operators)
+    - [Arithmetic Operators & Aliases](#arithmetic-operators--aliases)
+- [Distinct keyword](#distinct-keyword)
+- [Creating DB, User & things around it ...](#creating-db-user--things-around-it-)
+    - [Creating DB](#creating-db)
+    - [Creating New User](#creating-new-user)
+    - [Giving privileges to Created User](#giving-privileges-to-created-user)
 
 ###
 ---
