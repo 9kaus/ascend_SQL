@@ -1,6 +1,6 @@
 ## **Contents**
-- Data Types
-- Operators
+- [Data Types](#datatypes-in-mysql-)
+- [Operators]()
 
 
 # **Datatypes in 'MySQL'** 🔢
@@ -230,22 +230,13 @@ In MySQL, **DECIMAL** and **NUMERIC** are used to store exact numeric values wit
 - **DECIMAL** and **NUMERIC** allow you to specify the precision (total number of digits) and scale (number of digits after the decimal point).
 - These types are particularly useful for storing **monetary values**, where rounding errors can lead to significant problems.
 
-#### Syntax:
-
-```sql
-CREATE TABLE products (
-    product_id INT,
-    price DECIMAL(10, 2)  -- Precision: 10 digits, Scale: 2 decimal places
-);
-```
-
 #### Example Use Case:
 Price Column: A price column in a table for products might need to store values with exact precision, such as 19.99, 5.50, or 100.00.
 ```sql
 CREATE TABLE products (
     id INT,
     name VARCHAR(100),
-    price DECIMAL(10, 2)
+    price DECIMAL(10, 2) -- Precision: 10 digits, Scale: 2 decimal places
 );
 ```
 ###
@@ -267,23 +258,13 @@ In MySQL, **FLOAT** and **DOUBLE** are used to store approximate numeric values,
 - **DOUBLE** is used when higher precision is needed (15 decimal digits). It can store larger values and is ideal for scenarios where small rounding errors can accumulate over time, such as in scientific or engineering applications.
 - **FLOAT** and **DOUBLE** are efficient for storing large ranges of values but may introduce small rounding errors due to the inherent nature of floating-point arithmetic.
 
-#### Syntax:
-
-```sql
-CREATE TABLE measurements (
-    id INT,
-    temperature FLOAT,   -- Approximate value with 7 decimal digits
-    distance DOUBLE     -- Approximate value with 15 decimal digits
-);
-```
-
 #### Example Use Case:
 - Temperature Column: A temperature column might store values like 23.5, 100.45, or -30.987, where a floating-point approximation is sufficient.
   ```sql
   CREATE TABLE measurements (
       id INT,
       location VARCHAR(100),
-      temperature FLOAT
+      temperature FLOAT     -- Approximate value with 7 decimal digits
   );
   ```
 - Distance Column: A distance column might store more precise values for large distances, such as 123456.789123, where a higher precision is needed.
@@ -291,7 +272,7 @@ CREATE TABLE measurements (
   CREATE TABLE journey (
       id INT,
       route VARCHAR(100),
-      distance DOUBLE
+      distance DOUBLE     -- Approximate value with 15 decimal digits
   );
   ```
 ###
@@ -322,7 +303,7 @@ Where M is the number of bits to store, and it can range from 1 to 64.
   );
   ```
 
-- Binary Flags: A BIT(8) column can store multiple binary flags, such as permissions or feature toggles.
+- Binary Flags: A BIT(4) column can store multiple binary flags, such as permissions or feature toggles.
   ```sql
   CREATE TABLE employee_flags (
       id INT,
