@@ -33,7 +33,7 @@ You can read more about TRANSACTIONS, ACID properties & WAL's by visiting below 
 - [Transaction States](https://github.com/9kaus/ascend_SQL/blob/main/daywise/4/Transactions,ACID&WALs/3.TransactionStates.md)
 
 ## COMMIT
-The `COMMIT` statement is used to save all changes made during the current transaction to the database. Once committed, the changes become permanent, and the transaction cannot be rolled back.
+The `COMMIT` statement is used to save all changes made during the current transaction to the database. Once committed, the changes become permanent, and the transaction cannot be rolled back.<br>
 ![Image 1](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/4/images/img1.png)
 
 ## ROLLBACK
@@ -90,12 +90,12 @@ The `CONCAT` function is used to join two or more strings together. It combines 
 ![Image 11](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/4/images/img11.png)
 
 ## UPPER and LOWER
-- `UPPER` converts all characters in a string to uppercase.
-![Image 12](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/4/images/img12.png)
+- `UPPER` converts all characters in a string to uppercase.<br>
+    ![Image 12](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/4/images/img12.png)
 - similarly we have `LOWER` which converts all characters in a string to lowercase.
 
 ## Capitalizing Initial Word
-This function capitalizes the first letter of each word in a string, while leaving the remaining letters in lowercase, making text more readable or properly formatted.
+This function capitalizes the first letter of each word in a string, while leaving the remaining letters in lowercase, making text more readable or properly formatted.<br>
 ![Image 13](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/4/images/img13.png)
 
 ## PADDING
@@ -119,24 +119,26 @@ The `TRANSLATE` function replaces characters in a string with other characters, 
 ![Image 18](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/4/images/img18.png)
 
 ## INSTR
-The `INSTR` function returns the position of the first occurrence of a substring within a string. It can also be used to locate the occurrence of characters.
+The `INSTR` function returns the position of the first occurrence of a substring within a string. It can also be used to locate the occurrence of characters.<br>
 ![Image 19](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/4/images/img19.png)
 
 ## LENGTH
-The `LENGTH` function returns the number of characters in a string, including spaces.
+The `LENGTH` function returns the number of characters in a string, including spaces.<br>
 ![Image 20](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/4/images/img20.png)
 
 ## ASCII
-The `ASCII` function returns the ASCII (numeric) value of the first character in a string.
+The `ASCII` function returns the ASCII (numeric) value of the first character in a string.<br>
 ![Image 21.1](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/4/images/img21.1.png)
 
 ### Dual Table
-The DUAL table is a special one-row, one-column table used in Oracle databases for queries that need a dummy table, such as when selecting system values or performing calculations without needing to query actual data tables.
+The DUAL table is a special one-row, one-column table used in Oracle databases for queries that need a dummy table, such as when selecting system values or performing calculations without needing to query actual data tables.<br>
 ![Image 21.2](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/4/images/img21.2.png)
 
 ## CHAR and SOUNDEX
 - The `CHAR` function converts a number into its corresponding character using the ASCII code.
 - The `SOUNDEX` function returns a four-character code representing how a string sounds, which is useful for phonetic matching or similarity comparisons.
+<br>
+
 ![Image 22](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/4/images/img22.png)
 ###
 ---
