@@ -28,9 +28,9 @@
 
 # **Transaction Processing**
 You can read more about TRANSACTIONS, ACID properties & WAL's by visiting below links :<br>
-- [Transactions](1.Transactions.md)
-- [ACID & WALs](2.ACID&WALs.md)
-- [Transaction States](3.TransactionStates.md)
+- [Transactions](https://github.com/9kaus/ascend_SQL/blob/main/daywise/4/Transactions,ACID&WALs/1.Transactions.md)
+- [ACID & WALs](https://github.com/9kaus/ascend_SQL/blob/main/daywise/4/Transactions,ACID&WALs/2.ACID&WALs.md)
+- [Transaction States](https://github.com/9kaus/ascend_SQL/blob/main/daywise/4/Transactions,ACID&WALs/3.TransactionStates.md)
 
 ## COMMIT
 The `COMMIT` statement is used to save all changes made during the current transaction to the database. Once committed, the changes become permanent, and the transaction cannot be rolled back.
