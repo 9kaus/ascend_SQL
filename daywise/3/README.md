@@ -2,7 +2,7 @@
 - [DBMS vs RDBMS Data Storage and Retrieval](#dbms-vs-rdbms-data-storage-and-retrieval)
 - [ORDER BY clause](#order-by-clause)
 - [Blank Padded Comparison Semantics](#blank-padded-comparison-semantics)
-- [Special Operators - LIKE and BETWEEN](#special-operators-like-and-between)
+- [Special Operators - LIKE and BETWEEN](#special-operators---like-and-between)
 - [OR vs ANY vs IN](#or-vs-any-vs-in-in-and-not-in-operators)
 - [UPDATE](#update-dml)
 - [DELETE](#delete-dml)
