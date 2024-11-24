@@ -1,12 +1,12 @@
 ## **Contents**
-- [DBMS vs RDBMS Data Storage and Retrieval]()
-- [ORDER BY clause]()
-- [Blank Padded Comparison Semantics]()
-- [Special Operators - LIKE and BETWEEN]()
-- [OR vs ANY vs IN]()
-- [UPDATE]()
-- [DELETE]()
-- [DROP]()
+- [DBMS vs RDBMS Data Storage and Retrieval](#dbms-vs-rdbms-data-storage-and-retrieval)
+- [ORDER BY clause](#order-by-clause)
+- [Blank Padded Comparison Semantics](#blank-padded-comparison-semantics)
+- [Special Operators - LIKE and BETWEEN](#special-operators-like-and-between)
+- [OR vs ANY vs IN](#or-vs-any-vs-in-in-and-not-in-operators)
+- [UPDATE](#update-dml)
+- [DELETE](#delete-dml)
+- [DROP](#drop-ddl)
 
 ###
 ---
@@ -14,50 +14,57 @@
 # **DBMS vs RDBMS Data Storage and Retrieval**
 
 ![Image 1](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img1.png)
-![searching_in_server_HD](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img1.png)
-
+![searching_in_server_HD](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/searching_in_server_HD.png)
+![updating_row](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/updating_row.png)
+![row_updated_new_loc](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/row_updated_new_loc.png)
 ###
 ---
-# **Table Handson Basics**
 
-## **Creating and Inserting in Table**
-![Image 1](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/img1.jpg)
-![Insert and Null](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/1.insert_&_null.png)
-![Image 2](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/img2.png)
+# **ORDER BY clause**
+![Image 2](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img2.png)
+![order_by](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/order_by.png)
+![Image 3.1](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img3.1.png)
+![Image 3.2](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img3.2.png)
+![Image 3.3](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img3.3.png)
+![order_by_working](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/order_by_working.png)
+![order_by_where](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/order_by_where.png)
 ###
 ---
-## **Selecting from Table**
-![Image 3](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/img3.png)
-![Select Process](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/2.select_process.png)
-![Image 4](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/img4.jpg)
-![Search Happens in HD](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/3.search_happens_in_hd.png)
+
+# **Blank Padded Comparison Semantics**
+![Image 4](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img4.png)
+![blank_padded_comparison](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/blank_padded_comparison.png)
+![blank_padded_comparison2](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/blank_padded_comparison2.png)
 ###
 ---
-# **Operators**
 
-## Relational & Logical Operators
-![Image 5](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/img5.png)
+# Special Operators - LIKE and BETWEEN
+![Image 5](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img5.png)
+![Image 6](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img6.png)
 ###
-## Arithmetic Operators & Aliases
-![Image 6](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/img6.png)
-![Computed Derived Column](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/4.computed_derived_column.png)
-![Alias Error in Expression](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/5.alias_err_in_Exp.png)
+---
+
+# OR vs ANY vs IN (IN and NOT IN Operators)
+![Image 7](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img7.png)
 ###
-# Distinct keyword
-![Image 7](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/img7.png)
-![Distinct Select](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/6.distinct_select.png)
+---
+
+### Until now we have learnt about ...
+![Image 8](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img8.png)
 ###
-# Creating DB, User & things around it ...
-## Creating DB
-![MySQL DB](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/11.mysql_DB.png)
+---
+
+# UPDATE (DML)
+![Image 9](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img9.png)
 ###
-## Creating New User 
-![Create User](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/12.create_user.png)
-![Create User Example](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/13.create_user_eg.png)
+---
+
+# DELETE (DML)
+![Image 10](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img10.png)
 ###
-## Giving privileges to Created User 
-![Giving User Privileges](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/14.giving_user_privileges.png)
-![Selecting Privileges](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/15.selecting_privileges.png)
-![Connection Through Created User](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/16.connection_through_created_user.png)
+---
+
+# DROP (DDL)
+![Image 11](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img11.png)
 ###
 ---
