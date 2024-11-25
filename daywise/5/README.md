@@ -2,8 +2,8 @@
 
 - [NUMBER FUNCTIONS](#number-functions-) 🔢
     - [ROUND](#round-) 🔄
-    - [TRUNCATE](#truncate-) ✂️
-    - [CEIL & FLOOR](#ceil--floor-) ⬆️⬇️
+    - [TRUNCATE](#truncate-%EF%B8%8F) ✂️
+    - [CEIL & FLOOR](#ceil--floor-%EF%B8%8F%EF%B8%8F) ⬆️⬇️
     - [SIGN](#sign-) ➕➖
     - [MOD](#mod-) ➗
     - [SQRT](#sqrt-) √
@@ -62,13 +62,13 @@ The `SIGN()` function returns the sign of a number:
 
 ### MOD ➗
 
-The `MOD()` function returns the remainder of a division.
+The `MOD()` function returns the remainder of a division.<br>
 ![Image 7](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img7.png)
 
 
 ### SQRT √
 
-The `SQRT()` function returns the square root of a number.
+The `SQRT()` function returns the square root of a number.<br>
 ![Image 8](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img8.png)
 
 
@@ -99,7 +99,8 @@ This section covers the functions used to manipulate and extract information fro
 
 ![Image 11](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img11.png)
 ![Image 12](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img12.png)
-
+![sysdate_now](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/sysdate_now.png)
+![date_add_example](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/date_add_example.png)
 
 ---
 
@@ -159,12 +160,14 @@ The `CASE` expression provides conditional logic in SQL, similar to an `IF` stat
 The `SUM()` function returns the total sum of a numeric column.
 
 ![Image 25](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img25.png)
+![sum](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/sum.png)
 
 ### AVG 🔢
 
 The `AVG()` function returns the average value of a numeric column.
 
 ![Image 26](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img26.png)
+![exceptions](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/exceptions.png)
 
 ### MIN 🧑‍💻
 
