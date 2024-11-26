@@ -31,7 +31,7 @@ The `GROUP BY` clause is used to group rows that have the same values in specifi
 <br>efficiency comparison (driving vs driven): <br>
 
 ![groupby_efficiency](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/groupby_efficiency.png)
-<br>efficiency comparison (driving vs driven): <br>
+<br>n-dim queries : <br>
 
 ![nd](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/nd.png)
 ![nd_query](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/nd_query.png)
