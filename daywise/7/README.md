@@ -8,11 +8,11 @@
     - [INTERSECTION TABLE 🔀](#intersection-table-)
 - [SUB QUERIES 🔍](#sub-queries-)
     - [SELECT within SELECT 🔄](#select-within-select-)
-    - [SUB-QUERY within other DML commands 📝](#sub-query-within-other-dml-commands)
+    - [SUB-QUERY within other DML commands 📝](#sub-query-within-other-dml-commands-)
     - [MULTI-ROW SUB-QUERIES 📊](#multi-row-sub-queries-)
     - [FASTER QUERIES ⚡](#faster-queries-)
     - [ANY vs ALL vs IN 🤔](#any-vs-all-vs-in-)
-    - [SUB-QUERY within HAVING CLAUSE 🏷️](#sub-query-within-having-clause-)
+    - [SUB-QUERY within HAVING CLAUSE 🏷️](#sub-query-within-having-clause-%EF%B8%8F)
 
 ---
 
