@@ -8,10 +8,10 @@
     - [DATA REDUNDANCY](#data-redundancy)
     - [EQUIJOIN](#equijoin-) 🔄
     - [INEQUIJOIN](#inequijoin-) ≠
-    - [OUTER JOIN](#outer-join-) ↔️
-        - [LEFT OUTER JOIN](#left-outer-join)
-        - [RIGHT OUTER JOIN](#right-outer-join)
-        - [FULL OUTER JOIN](#full-outer-join)
+    - [OUTER JOIN](#outer-join-%EF%B8%8F) ↔️
+        - [LEFT OUTER JOIN](#left-outer-join-)
+        - [RIGHT OUTER JOIN](#right-outer-join-)
+        - [FULL OUTER JOIN](#full-outer-join-)
 - [CONT](#cont-) 📝
 
 ---
