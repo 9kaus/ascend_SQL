@@ -1,6 +1,6 @@
 ## Contents 📑
 
-- [GROUP FUNCTIONS](#group-aggregate-functions-) 📊
+- [GROUP FUNCTIONS](#group--aggregate-functions-) 📊
 - [GROUP BY clause](#group-by-clause-) 🧑‍🤝‍🧑
 - [HAVING clause](#having-clause-) 🤔
 - [Order of Execution](#order-of-execution-)
@@ -89,8 +89,8 @@ An `OUTER JOIN` returns rows that have matching values in one table, along with 
 
 #### **LEFT OUTER JOIN**: <br>
 Returns all rows from the left table and matched rows from the right table.
-![left_outer_join](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/left_outer_join.png)
-![Image 16](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/img16.png)
+![left_outer_join](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/left_outer_join.png)<br>
+![Image 16](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/img16.png)<br>
 ![Image 18](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/img18.png)
 ![left_outer](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/left_outer.png)
 
@@ -99,7 +99,6 @@ Returns all rows from the right table and matched rows from the left table.
 ![right_outer_join](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/right_outer_join.png)
 ![image 15](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/img15.png)
 ![right_outer](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/right_outer.png)
-
 
 #### **FULL OUTER JOIN**: <br>
 Returns all rows when there is a match in either left or right table.
