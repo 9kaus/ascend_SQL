@@ -24,10 +24,10 @@
         - [MAX](#max-) 📈
         - [COUNT](#count-) 🔢
     - [NOTE](#note-)❗
-        - [WHERE with GROUP functions](#where_with_group_functions)
-        - [Nesting of Group Functions](#nesting_of_group_functions)
-        - [Some other constraints](#some_other_constraints)
-        - [Functioning with diff Datatypes](functioning_with_diff_datatypes)
+        - [WHERE with GROUP functions](#where-with-group-functions)
+        - [Nesting of Group Functions](#nesting-of-group-functions)
+        - [Some other constraints](#some-other-constraints)
+        - [Functioning with diff Datatypes](#functioning-with-diff-datatypes)
         
 
 ---
