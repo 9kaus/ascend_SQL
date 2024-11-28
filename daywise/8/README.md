@@ -41,12 +41,15 @@ This solution uses an **IN** operator to achieve the result.
 
 This solution uses **JOINS** to achieve the same result.
 
+![Image 35](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img35.png)
+
 ### EXISTS ✅
 
 The **EXISTS** operator checks for the existence of rows in a sub-query. If the sub-query returns any rows, the condition is true.
 
 ![Image 5](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img5.png)
 ![Image 6](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img6.png)
+![Image 36](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img36.png)
 
 ### NOT EXISTS ❌
 
@@ -61,8 +64,8 @@ The **NOT EXISTS** operator checks for the non-existence of rows in a sub-query.
 Set operators allow you to combine the results of two or more SELECT queries into a single result set.
 
 ![Image 8](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img8.png)
-
-
+![Image 37](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img37.png)
+according to Dr. Codd 👆
 ### UNION
 
 The **UNION** operator combines the results of two or more SELECT statements and removes duplicates.
@@ -104,6 +107,14 @@ The **MINUS** operator returns rows from the first query that are not in the sec
 
 ### ROWID
 ![Image 18](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img18.png)
+![Image 39](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img39.png)
+Delete row using `ROWID` :<br>
+![Image 42](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img42.png)
+Updating a row using `ROWID` :<br>
+![Image 40](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img40.png)
+![Image 41](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img41.png)
+if after update row size increases then the row address or `ROWID` will change.<br>
+and now while searching the row won't appear at same sequenced place.
 
 ### Note
 ![Image 19](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img19.png)
@@ -118,7 +129,7 @@ The **MINUS** operator returns rows from the first query that are not in the sec
 
 ### ALTER TABLE 🏗️
 
-The **ALTER TABLE** statement is used to modify an existing table’s structure.
+The **ALTER TABLE** statement is used to modify an existing table’s structure.<br>
 ![Image 20](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img20.png)
 ![Image 21](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img21.png)
 ![Image 22](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img22.png)
@@ -140,18 +151,23 @@ Decreasing Width of Column :<br>
 ![Image 28](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img28.png)
 
 #### Copy a Table
-![Image 29](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img29.png)
+![Image 48](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img48.png)
+![Image 46](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img46.png)
+![Image 47](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img47.png)
 
 #### Copy structure of Table
+![Image 49](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img49.png)
 ![Image 30](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img30.png)
-![Image 31](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img31.png)
+![Image 51](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img51.png)
+![Image 50](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img50.png)
 ![Image 32](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img32.png)
 
 #### Rename a Column
-![Image 33](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img33.png)
+![Image 52](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img52.png)
 
 #### Change position of columns in table structure
-![Image 34](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img34.png)
+![Image 53](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img53.png)
+![Image 44](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img44.png)
 
 ### RENAME TABLE
 ![Image 23](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img23.png)
