@@ -34,13 +34,13 @@
 # **Blank Padded Comparison Semantics**
 ![Image 4](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img4.png)
 ![blank_padded_comparison](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/blank_padded_comparison.png)
-![blank_padded_comparison2](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/blank_padded_comparison2.png)
 ###
 ---
 
 # Special Operators - LIKE and BETWEEN
 ![Image 5](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img5.png)
 ![Image 6](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/img6.png)
+![blank_padded_comparison2](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/3/images/blank_padded_comparison2.png)
 ###
 ---
 
