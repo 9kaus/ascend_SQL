@@ -11,8 +11,10 @@
     - [ABS](#abs-) 💪
 - [DATE and TIME Functions](#date-and-time-functions-) 📅⏰
 - [LIST FUNCTIONS](#list-functions-) 📋
-    - [NULL & IS NOT NULL](#null--is-not-null-) 🚫
+    - [NULL](#null-) 🚫
     - [IFNULL](#ifnull-) ❓
+    - [COALESCE](#coalesce)
+    - [COALESCE vs IFNULL](#coalesce-vs-ifnull)
     - [GREATEST](#greatest-) 🏆
     - [LEAST](#least-) 🥇
     - [CASE expression](#case-expression-) 🧩
@@ -120,21 +122,31 @@ This section covers the functions used to manipulate and extract information fro
 
 ![Image 13](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img13.png)
 
-### NULL & IS NOT NULL 🚫
+### NULL 🚫
+
+![Image 14](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img14.png)
 
 - `NULL`: Represents a missing or undefined value.
 - `IS NULL`: Checks if a value is NULL.
 - `IS NOT NULL`: Checks if a value is not NULL.
 
-![Image 14](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img14.png)
+![Image 15](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img15.png)
 
 ### IFNULL ❓
 
 The `IFNULL()` function replaces `NULL` values with a specified value.
 
-![Image 15](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img15.png)
 ![Image 16](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img16.png)
 ![Image 17](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img17.png)
+
+### COALESCE
+
+![coalesce1](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/coalesce1.png)
+![coalesce2](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/coalesce2.png)
+
+### COALESCE vs IFNULL
+
+![CoalesceVsIfnull](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/CoalesceVsIfnull.png)
 
 ### GREATEST 🏆
 
