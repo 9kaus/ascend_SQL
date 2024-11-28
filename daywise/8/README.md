@@ -9,17 +9,24 @@
     - [UNION](#union)
     - [UNION ALL](#union-all)
     - [INTERSECT](#intersect) 🔀
-    - [MINUS](#minus) ➖
+    - [MINUS](#minus-) ➖
     - [MISC](#misc)
-- [PSEUDO COLUMNS](#pseudo-columns) 🖋️
-- [DDL](#ddl) 🛠️
-    - [ALTER TABLE](#alter-table) 🏗️
-        - [ADD & DROP](#add--drop) ➕➖
-        - [MODIFY](#modify) 🔄
-    - [RENAME TABLE]()
-- [Privileges - DCL](#privileges-dcl) 🔒
-    - [GRANT](#grant) ✅
-    - [REVOKE](#revoke) ❌
+- [PSEUDO COLUMNS](#pseudo-columns-%EF%B8%8F) 🖋️
+- [DDL](#ddl-%EF%B8%8F) 🛠️
+    - [ALTER TABLE](#alter-table-%EF%B8%8F) 🏗️
+        - [ADD & DROP](#add--drop-) ➕➖
+        - [MODIFY](#modify-) 🔄
+        - [Changing Data Type of Column](#changing-data-type-of-column)
+        - [Copy Rows from One to Another Table](#copy-rows-from-one-to-another-table)
+        - [Copy Specific Rows](#copy-specific-rows)
+        - [Copy a Table](#copy-a-table)
+        - [Copy structure of Table](#copy-structure-of-table)
+        - [Rename a Column](#rename-a-column)
+        - [Change position of columns in table structure](#change-position-of-columns-in-table-structure)
+    - [RENAME TABLE](#rename-table)
+- [Privileges - DCL](#privileges---dcl-) 🔒
+    - [GRANT](#grant-) ✅
+    - [REVOKE](#revoke-) ❌
 
 ---
 
