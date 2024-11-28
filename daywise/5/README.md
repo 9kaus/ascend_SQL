@@ -16,6 +16,11 @@
     - [GREATEST](#greatest-) 🏆
     - [LEAST](#least-) 🥇
     - [CASE expression](#case-expression-) 🧩
+        - [in SELECT](#in-select)
+        - [in WHERE](#in-where)
+        - [in COUNT](#in-count)
+        - [in SUM](#in-sum)
+        - [in AVG](#in-avg)
 - [SINGLE vs MULTI-ROW FUNCTIONS](#single-vs-multi-row-functions-) 🧮
     - [GROUP FUNCTIONS](#group--aggregate-functions-) 📊
         - [SUM](#sum-) ➕
@@ -146,14 +151,26 @@ The `LEAST()` function returns the smallest value from a list of values.
 ### CASE Expression 🧩
 
 The `CASE` expression provides conditional logic in SQL, similar to an `IF` statement.
+![case_detailed](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/case_detailed.png)
 
+#### In SELECT
 ![Image 20](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img20.png)
 ![Image 21](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img21.png)
 ![Image 22](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img22.png)
 
+#### In WHERE
+![case_where](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/case_where.png)
 
-### DUAL table 🧮
+#### In COUNT
+![case_count](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/case_count.png)
 
+#### In SUM
+![case_sum](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/case_sum.png)
+
+#### In AVG
+![case_avg](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/case_avg.png)
+
+### USER 🧮
 ![Image 23](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img23.png)
 
 ---
