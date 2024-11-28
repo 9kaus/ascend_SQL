@@ -1,6 +1,5 @@
 ## Contents 📑
 
-- [GROUP FUNCTIONS](#group--aggregate-functions-) 📊
 - [GROUP BY clause](#group-by-clause-) 🧑‍🤝‍🧑
 - [HAVING clause](#having-clause-) 🤔
 - [Order of Execution](#order-of-execution-)
@@ -15,11 +14,6 @@
 - [CONT](#cont-) 📝
 
 ---
-
-## GROUP / AGGREGATE FUNCTIONS 📊
-
-![Image 1](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/img1.png)
-![Image 7](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/img7.png)
 
 ## GROUP BY clause 🧑‍🤝‍🧑
 
