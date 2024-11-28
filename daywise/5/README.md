@@ -17,11 +17,18 @@
     - [LEAST](#least-) 🥇
     - [CASE expression](#case-expression-) 🧩
 - [SINGLE vs MULTI-ROW FUNCTIONS](#single-vs-multi-row-functions-) 🧮
-    - [SUM](#sum-) ➕
-    - [AVG](#avg-) 🔢
-    - [MIN](#min-) 🧑‍💻
-    - [MAX](#max-) 📈
-    - [COUNT](#count-) 🔢
+    - [GROUP FUNCTIONS](#group--aggregate-functions-) 📊
+        - [SUM](#sum-) ➕
+        - [AVG](#avg-) 🔢
+        - [MIN](#min-) 🧑‍💻
+        - [MAX](#max-) 📈
+        - [COUNT](#count-) 🔢
+    - [NOTE](#note-)❗
+        - [WHERE with GROUP functions](#where_with_group_functions)
+        - [Nesting of Group Functions](#nesting_of_group_functions)
+        - [Some other constraints](#some_other_constraints)
+        - [Functioning with diff Datatypes](functioning_with_diff_datatypes)
+        
 
 ---
 
@@ -155,36 +162,53 @@ The `CASE` expression provides conditional logic in SQL, similar to an `IF` stat
 
 ![Image 24](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img24.png)
 
-### SUM ➕
+
+### GROUP / AGGREGATE FUNCTIONS 📊
+
+#### SUM ➕
 
 The `SUM()` function returns the total sum of a numeric column.
 
 ![Image 25](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img25.png)
 ![sum](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/sum.png)
 
-### AVG 🔢
+#### AVG 🔢
 
 The `AVG()` function returns the average value of a numeric column.
 
 ![Image 26](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img26.png)
-![exceptions](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/exceptions.png)
 
-### MIN 🧑‍💻
+
+#### MIN 🧑‍💻
 
 The `MIN()` function returns the smallest value from a numeric column.
 
 ![Image 27](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img27.png)
 
-### MAX 📈
+#### MAX 📈
 
 The `MAX()` function returns the largest value from a numeric column.
 
 ![Image 28](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img28.png)
 
-### COUNT 🔢
+#### COUNT 🔢
 
 The `COUNT()` function returns the number of rows in a dataset or the number of non-NULL values in a column.
 
 ![Image 29](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/img29.png)
+
+### NOTE❗
+
+#### WHERE with GROUP functions
+![where_with_group_functions](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/where_with_group_functions.png)
+
+#### Nesting of Group Functions
+![Image 7](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/img7.png)
+
+#### Some other constraints
+![Image 1](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/img1.png)
+
+#### Functioning with diff Datatypes
+![works_with](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/5/images/works_with.jpg)
 
 ---
