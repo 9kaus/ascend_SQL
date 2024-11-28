@@ -449,5 +449,5 @@ MySQL provides various data types for storing date and time values. These types 
 ###
 ## Accessing through other user through client
 ![changing_user](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/changing_user.png)
-### adding changing to other user through client
+###
 ---
