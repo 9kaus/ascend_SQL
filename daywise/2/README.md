@@ -28,6 +28,7 @@
   - [Creating DB](#creating-db)
   - [Creating New User](#creating-new-user)
   - [Giving privileges to Created User](#giving-privileges-to-created-user)
+  - [Accessing through other user through client](#accessing-through-other-user-through-client)
 
 ###
 ---
@@ -446,4 +447,7 @@ MySQL provides various data types for storing date and time values. These types 
 ![Selecting Privileges](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/15.selecting_privileges.png)
 ![Connection Through Created User](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/16.connection_through_created_user.png)
 ###
+## Accessing through other user through client
+![changing_user](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/2/images/changing_user.png)
+### adding changing to other user through client
 ---
