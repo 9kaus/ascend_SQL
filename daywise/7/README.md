@@ -8,7 +8,7 @@
     - [INTERSECTION TABLE 🔀](#intersection-table-)
 - [SUB QUERIES 🔍](#sub-queries-)
     - [SELECT within SELECT 🔄](#select-within-select-)
-    - [Column Creation and Aggregation using SUB-QUERY](#column-creation-and-aggregation-using-sub--query)
+    - [Column Creation and Aggregation using SUB-QUERY](#column-creation-and-aggregation-using-sub-query)
     - [SUB-QUERY within other DML commands 📝](#sub-query-within-other-dml-commands-)
     - [MULTI-ROW SUB-QUERIES 📊](#multi-row-sub-queries-)
     - [FASTER QUERIES ⚡](#faster-queries-)
