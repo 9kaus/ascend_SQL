@@ -22,7 +22,7 @@ The `GROUP BY` clause is used to group rows that have the same values in specifi
 ![Image 2](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/img2.png)
 ![Image 3](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/img3.png)
 ![groupby_working](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/groupby_working.png)
-<br>efficiency comparison (driving vs driven): <br>
+<br>efficiency comparison : <br>
 
 ![groupby_efficiency](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/groupby_efficiency.png)
 <br>n-dim queries : <br>
