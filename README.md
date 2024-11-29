@@ -23,7 +23,7 @@ Some concepts, exercises, assignments, and a lot of fun! 🎉📈🔥<br>
 ## Theory Zero to Hero 📖 0️⃣ ➡️ 🏆
 
 - **Day 1**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/1)
-- **Day 2**: [Clich Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/2)
+- **Day 2**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/2)
 - **Day 3**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/3)
 - **Day 4**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/4)
 - **Day 5**: [Click Here](https://github.com/9kaus/ascend_SQL/tree/main/daywise/5)
