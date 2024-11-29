@@ -8,6 +8,7 @@
     - [INTERSECTION TABLE 🔀](#intersection-table-)
 - [SUB QUERIES 🔍](#sub-queries-)
     - [SELECT within SELECT 🔄](#select-within-select-)
+    - [Column Creation and Aggregation using SUB-QUERY](#column-creation-and-aggregation-using-sub--query)
     - [SUB-QUERY within other DML commands 📝](#sub-query-within-other-dml-commands-)
     - [MULTI-ROW SUB-QUERIES 📊](#multi-row-sub-queries-)
     - [FASTER QUERIES ⚡](#faster-queries-)
@@ -50,7 +51,11 @@
 ![Image 9](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/7/images/img9.png)
 ![thomas_same](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/7/images/thomas_same.png)
 
+### Column Creation and Aggregation using SUB-QUERY
+![column_aggr_subquery](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/7/images/column_aggr_subquery.png)
+
 ### SUB-QUERY within other DML commands 📝
+Basically **Single-Value Comparison in WHERE Clauses** <br>
 ![Image 10.1](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/7/images/img10.1.png)
 ![Image 10.2](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/7/images/img10.2.png)
 
