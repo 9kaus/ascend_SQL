@@ -11,6 +11,8 @@
         - [LEFT OUTER JOIN](#left-outer-join-)
         - [RIGHT OUTER JOIN](#right-outer-join-)
         - [FULL OUTER JOIN](#full-outer-join-)
+    - [Conditional SQL JOINS](#conditional-sql-joins)
+    - [Mentioning Columns after ON](-mentioning-columns-after-on)
 - [CONT](#cont-) 📝
 
 ---
@@ -99,6 +101,16 @@ Returns all rows when there is a match in either left or right table.
 ![full_outer_join](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/full_outer_join.png)
 ![image 17](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/img17.png)
 ![full_outer](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/full_outer.png)
+
+### Conditional SQL JOINS
+![conditional_joins](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/conditional_joins.png)
+![ex1](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/ex1.png)
+![ex2](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/ex2.png)
+![ex3](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/ex3.png)
+![ex4](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/6/images/ex4.png)
+
+### Mentioning Columns after ON
+Remember to first mention DRIVING table column on left side of equals-to symbol and then DRIVEN table column on opposite side.
 
 ---
 
