@@ -182,17 +182,29 @@ Decreasing Width of Column :<br>
 
 ## Privileges - DCL 🔒
 
-**DCL (Data Control Language)** commands are used to manage access to database objects.
+**DCL (Data Control Language)** commands are used to manage access to database objects.<br>
+<br> assumption : we have users Dishi, Vaibhav and Manoj.
 
 ### GRANT ✅
 
-The **GRANT** statement provides specific privileges to a user or role.
-
+The **GRANT** statement provides specific privileges to a user or role.<br>
+![Image 54](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img54.png)
 
 
 ### REVOKE ❌
 
-The **REVOKE** statement removes previously granted privileges from a user or role.
+The **REVOKE** statement removes previously granted privileges from a user or role.<br>
+![Image 55](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img55.png)
 
+
+### See Permissions Granted and Received
+![Image 56](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img56.png)
+
+
+### MISC
+![Image 57](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img57.png)
+<br><br>Say if the Vaibhav Granted Privileges to Manoj and the Privileges are revoked from Vaibhav user, still the Manoj user will have Privileges and Dishi will have to revoke it separately.
+
+![Image 58](https://raw.githubusercontent.com/9kaus/ascend_SQL/main/daywise/8/images/img58.png)
 
 ---
